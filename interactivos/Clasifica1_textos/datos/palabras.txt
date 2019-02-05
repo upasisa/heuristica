@@ -1,0 +1,31 @@
+'_ Ingresa palabras y número de caracteres (max 14), el primer dato corresponde al número de palabras del bloque 1 _'
+
+5
+'Busca patrones'
+'Lista sistemática'
+'Generaliza'
+'Ensayo y error'
+'Particulariza'
+'Parafrasear'
+'Lectura analítica'
+'Hacer esquemas'
+
+4
+'Busca patrones'
+'Lista sistemática'
+'Generaliza'
+'Razona lógicamente'
+'Diagramas de tiras'
+'Diagramas tabulares'
+'Diagramas analógicos'
+'Diagramas de flujo'
+
+4
+'Empieza por el final'
+'Establece submetas'
+'Plantea una ecuación'
+'Ensayo y error'
+'Diagramas cartesianos'
+'Diagramas conjuntistas'
+'Diagramas lineales'
+'Diagramas de árbol'
